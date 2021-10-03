@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 #ex
 
 #deployment
+
+this is simple project
